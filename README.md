@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FlutterQuizApp
 make a quizApp using flutter 
 # quizapp
